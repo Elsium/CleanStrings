@@ -1,0 +1,6 @@
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\int_ex1\int_ex1\bin\Debug\int_ex1.exe
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\int_ex1\int_ex1\bin\Debug\int_ex1.pdb
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\int_ex1\int_ex1\obj\Debug\int_ex1.csprojAssemblyReference.cache
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\int_ex1\int_ex1\obj\Debug\int_ex1.csproj.CoreCompileInputs.cache
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\int_ex1\int_ex1\obj\Debug\int_ex1.exe
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\int_ex1\int_ex1\obj\Debug\int_ex1.pdb
